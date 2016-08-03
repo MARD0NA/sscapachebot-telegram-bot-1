@@ -1,7 +1,7 @@
 <?php
 ob_start();
 define('259621007:AAHwfLXt7kvqv7-AUHGkyShgjJmnMC5U6EU','XXXX');
-$the_admin_id = 0;
+$the_admin_id = 90073942;
 
 file_put_contents("count",file_get_contents("count")+1);
 
